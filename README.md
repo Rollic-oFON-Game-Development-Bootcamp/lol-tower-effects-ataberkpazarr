@@ -1,1 +1,1 @@
-# rr-lol-tower-effects-ataberkpazarr
+# lol-tower-effects-ataberkpazarr
